@@ -1,0 +1,14 @@
+{
+  "from": "Minsk",
+  "to": "Vilnius",
+  "oneway": "true",
+  "departureDate":"06.19.2018",
+  "passengers":[
+    {
+      "Adult": 1,
+      "Children": 2,
+      "Infants":1
+    }
+  ],
+  "redeemPoints":"true"
+}

@@ -1,0 +1,8 @@
+
+Ssquid:S3972"7Move this "if" to a new line or add the missing "else".(¯ìÝ©ÿÿÿÿÿ
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ô‚¢Ùýÿÿÿÿ
+˜squid:S1319"|The type of the "seporatedDataList" object should be an interface such as "List" rather than the implementation "ArrayList".(ñÜùÏùÿÿÿÿ
+|squid:S1488"eImmediately return this expression instead of assigning it to the temporary variable "seporatedData".(Ü‰åÉ
+`squid:UselessImportCheck"7Remove this unused import 'org.json.simple.JSONObject'.(‚ƒç‘ÿÿÿÿÿ
+Ssquid:UselessImportCheck"*Remove this unused import 'java.awt.List'.(žë½½üÿÿÿÿ
+isquid:UselessImportCheck"@Remove this unused import 'businessobject.BaseBookFlightObject'.(„ÚÔ¥úÿÿÿÿ

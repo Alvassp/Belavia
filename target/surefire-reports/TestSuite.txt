@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.977 s <<< FAILURE! - in TestSuite
+fillBookingFormCheckResult(fillformbookflight.BookFlightsFillFormTest)  Time elapsed: 2.253 s  <<< FAILURE!
+java.lang.AssertionError: Searched list is empty or flight after 10 AM! expected [true] but found [false]
+	at fillformbookflight.BookFlightsFillFormTest.fillBookingFormCheckResult(BookFlightsFillFormTest.java:20)
+

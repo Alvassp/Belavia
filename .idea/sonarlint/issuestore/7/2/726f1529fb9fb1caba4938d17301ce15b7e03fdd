@@ -1,0 +1,10 @@
+
+Fsquid:EmptyStatementUsageCheckj"Remove this empty statement.(ÎÇÅ
+Fsquid:EmptyStatementUsageCheckn"Remove this empty statement.(ÎÇÅ
+Fsquid:EmptyStatementUsageCheckr"Remove this empty statement.(ÎÇÅ
+esquid:S1192="IDefine a constant instead of duplicating this literal "Children" 4 times.(²î§µıÿÿÿÿ
+_squid:S1192>"HDefine a constant instead of duplicating this literal "Infants" 4 times.(ã¬àß
+\squid:S1192<"FDefine a constant instead of duplicating this literal "Adult" 4 times.(™ûŸ6
+„squid:S1319:"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÑáèÆ
+Qsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+hsquid:UselessImportCheck"DRemove this unused import 'org.openqa.selenium.interactions.Action'.(›ó
