@@ -1,0 +1,6 @@
+using NUnit.Framework;
+using ServiceChannel.Specflow.Mobile.Support;
+using ServiceChannel.Specflow.ServiceClick.PageObjects;
+using ServiceChannel.Specflow.Support;
+using ServiceChannel.Specflow.Support.Steps;
+using TechTalk.SpecFlow;
