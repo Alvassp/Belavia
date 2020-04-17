@@ -18,6 +18,7 @@ test2
 test3
 _
 test4
+<<<<<<< HEAD
 test5
 _
 test11
@@ -28,3 +29,6 @@ test15
 _
 test16
 test17
+=======
+test5
+>>>>>>> origin/slave2
