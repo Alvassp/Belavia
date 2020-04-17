@@ -43,7 +43,7 @@
     "postcss-loader": "^2.0.6",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
-    "underscore.string": "^3.3.4",
+    "underscore.string": "^3.3.5",
     "url-loader": "^0.5.9",
     "webpack": "^3.5.1",
     "webpack-dev-server": "^2.7.0"
